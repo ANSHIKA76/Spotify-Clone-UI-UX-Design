@@ -1,4 +1,3 @@
-# Spotify-Clone-UI-UX-Design
 # 🎵 Spotify Clone - UI/UX Design
 
 A responsive front-end **Spotify Web Player UI Clone** built using **HTML**, **CSS**, and **JavaScript**. This project replicates Spotify's sleek dark interface with interactive elements and modern design.
